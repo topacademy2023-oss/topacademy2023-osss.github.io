@@ -1,0 +1,33 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+h1 h2 h3 h4 h5{
+  font-family: 'Open Sans'
+
+  background-color:#42b0ff;
+  border: 4px double black;
+  
+#custom-id {
+  background-color: #2b0ff;
+  border: 4px outset #afdeff;
+}
+  
+  #menul{
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  z-index: 10;
+  }
+   #menul ul{
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0px;
+  padding: 0px
+  list-style: none;
+     
+     a{
+      font-family: 'Open Sans'
+     
